@@ -1,4 +1,4 @@
-# Salary prediction Of Data Scientist's
+# Salary prediction Of Data Scientists
 
 ## Project Overview
 • Created a machine learning model that estimates salary of data scientist based on the features like rating, company_founded, etc.
